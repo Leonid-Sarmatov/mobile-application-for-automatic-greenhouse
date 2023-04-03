@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">automatic-greenhouse</string>
+    <string name="welcome_text">     </string>
+    <string name="connect_text">Введите IP-адрес:</string>
+    <string name="connect_button_text">подключиться</string>
+    <string name="settings_activity">настройки теплицы</string>
+</resources>
